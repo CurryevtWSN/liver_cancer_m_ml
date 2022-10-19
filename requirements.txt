@@ -4,3 +4,4 @@ numpy==1.20.3
 lightgbm==3.3.2
 matplotlib==3.4.2
 scikit-learn==1.0.1
+imbalanced-learn==0.8.0
